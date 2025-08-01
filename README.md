@@ -1,8 +1,3 @@
-Claro, aquí tienes un ejemplo profesional de README.md en inglés para tu proyecto CRUD de TV Shows con Node.js, Express y JSON:
-
-⸻
-
-
 # 📺 TV Shows API — Node.js + Express
 
 This is a simple RESTful API for managing TV shows. It allows users to perform full CRUD (Create, Read, Update, Delete) operations using Express and JSON as data storage. The API is tested using Postman and supports basic endpoints for managing a list of TV shows.
